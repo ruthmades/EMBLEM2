@@ -1,0 +1,41 @@
+{
+  "title": "EMBLEM",
+  "description": "Ruth's journey into the world of magic Emblems",
+  "artist": "Yasin",
+  "author": "Yasin",
+  "cover": "https://imgchest.com/p/lqyenvblzyd",
+  "chapters": {
+    "002": {
+      "title": "The Laundry",
+      "last_updated": "1768846326",
+      "groups": {
+        "Yasin": "/proxy/api/imgchest/chapter/bp4568lmv75"
+      },
+      "volume": "01"
+    },
+    "001": {
+      "title": "And We're Off!",
+      "last_updated": "1768846334",
+      "groups": {
+        "Yasin": "/proxy/api/imgchest/chapter/o24angr2e7l"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Brush!",
+      "last_updated": "1768846342",
+      "groups": {
+        "Yasin": "/proxy/api/imgchest/chapter/agyvj6kxky8"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Showdowns",
+      "last_updated": "1768846353",
+      "groups": {
+        "Yasin": "/proxy/api/imgchest/chapter/a8466xj324x"
+      },
+      "volume": "01"
+    }
+  }
+}
