@@ -1,10 +1,9 @@
 {
   "title": "EMBLEM",
-  "description": "EMBLEM is the journey of a foolhardy girl named Ruth. She's diving head first into the world of magical emblems in order to find the Star Emblem said to be able to grant any wish! https://x.com/ruthmades",
+  "description": "Ruth's journey into the world of magic Emblems",
   "artist": "Yasin",
   "author": "Yasin",
-  "cover": "/proxy/api/imgchest/51fb9e3370cf",
-  "cover": "https://i.imgur.com/F5MT1E9.jpeg",
+  "cover": "https://imgchest.com/p/lqyenvblzyd",
   "chapters": {
     "002": {
       "title": "The Laundry",
@@ -37,6 +36,14 @@
         "Yasin": "/proxy/api/imgchest/chapter/a8466xj324x"
       },
       "volume": "01"
+    },
+    "005": {
+      "title": "Ruth's Backpack",
+      "last_updated": "1775791956",
+      "groups": {
+        "Yasin": "/proxy/api/imgchest/chapter/ljyqmambn72"
+      },
+      "volume": "02"
     }
   }
 }
